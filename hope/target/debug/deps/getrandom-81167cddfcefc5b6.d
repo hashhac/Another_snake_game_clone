@@ -1,0 +1,11 @@
+C:\rust\hope\target\debug\deps\libgetrandom-81167cddfcefc5b6.rmeta: C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src/lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\util.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error_std_impls.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\../README.md C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends\windows7.rs
+
+C:\rust\hope\target\debug\deps\getrandom-81167cddfcefc5b6.d: C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src/lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\util.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error_std_impls.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\../README.md C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends\windows7.rs
+
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src/lib.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\util.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error_std_impls.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\../README.md:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends\windows7.rs:
